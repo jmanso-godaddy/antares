@@ -1,5 +1,11 @@
 # @godaddy/antares
 
+## 0.12.1
+
+### Patch Changes
+
+- Fix BarChart clipping the first x-axis label under the Y-axis when the chart has many categories. ([#432](https://github.com/godaddy/bento/pull/432) by @egaitan-godaddy)
+
 ## 0.12.0
 
 ### Minor Changes
